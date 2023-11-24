@@ -1,7 +1,7 @@
 # -------------------------------------
 #  Elias Eduardo Cardona Rodriguez
 #  Lic. en Informatica 3A
-#  Actividades del 28 y 30 AGO-2023
+#  DIA 31-OCT-2023
 # -------------------------------------
 
 #  EJERCICIO 1
@@ -36,43 +36,5 @@ print(fPoi)
 
 
 #  (b) ¿Cuál es el número medio de llegadas durantes un periodo de tres horas?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
